@@ -3,12 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ModeloDAO;
+package Modelo;
 
 /**
  *
  * @author Paty Ramirez
  */
-public class sugerenciaDAO {
-    
+public class persona {
+    int idpersona;
+     String nombre;
+     String apellido;
+     String dni;
+     String telefono;
+     String pais;
 }
